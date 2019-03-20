@@ -1,4 +1,4 @@
 public void main()
 {
-	printf("ello world");
+	printf("Hello world");
 }
